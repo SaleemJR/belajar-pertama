@@ -1,5 +1,4 @@
 aplikasi ini dibuat untuk pembelajaran saya sendiri,
 saat ini pengguna repositori ini adalah:
 - dzreexx
-- rafa
 - jkhoonalagoona
